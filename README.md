@@ -1,4 +1,4 @@
-Quiz Task
+## Quiz Task
 
 This project is a fully functional quiz application built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to take quizzes, view their scores, and see detailed explanations for each question. The application is designed to provide an engaging and educational experience.
 
