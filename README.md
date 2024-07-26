@@ -2,6 +2,8 @@
 
 This project is a fully functional quiz application built using the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to take quizzes, view their scores, and see detailed explanations for each question. The application is designed to provide an engaging and educational experience.
 
+![Screenshot 2024-07-26 151223](https://github.com/user-attachments/assets/7eb4f63d-419c-4f93-b0d8-80e5304fa10a)
+
 ## Features
 
 - **User Authentication:**
